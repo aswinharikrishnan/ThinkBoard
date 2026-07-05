@@ -1,6 +1,5 @@
 # 📝 MERN Stack Note Taking App ✨
 
-[Live Demo Link : (https://mern-thinkboard-5t32.onrender.com/)]
 
 ## 🚀 Highlights
 
